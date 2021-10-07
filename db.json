@@ -1,1 +1,1 @@
-[{'pregunta':'Cuál es la capital de Cerro Largo?', 'opciones':[{'ok':'false','opcion':'Río Branco'},{'ok':'true','opcion':'Melo'}]}]
+[{'id':'1','pregunta':'Cuál es la capital de Cerro Largo?', 'opt1':'Río Branco', 'opt2':'Melo'}]
